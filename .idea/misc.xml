@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/activity_maincalendar.xml" value="0.1" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/activity_questions_nanswers.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/custom_question_layout.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/fragment__admin__student__selection.xml" value="0.1" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/fragment_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/fragment_dash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/ajays/AndroidStudioProjects/Vidya_Sagar/app/src/main/res/layout/fragment_quiz_info.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/samir/Downloads/Vidya_Sagar/app/src/main/res/layout/activity_splash_screen.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/samir/Downloads/Vidya_Sagar/app/src/main/res/layout/fragment_dash.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/samir/Downloads/Vidya_Sagar/app/src/main/res/layout/fragment_home.xml" value="0.15307971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

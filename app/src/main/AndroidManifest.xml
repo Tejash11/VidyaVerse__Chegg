@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.guru_cares">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Guru_Cares">
+        <activity android:name=".GameActivity"></activity>
+        <activity android:name=".flyhigh" />
+        <activity android:name=".dinoassist" />
+        <activity android:name=".activityclass.Questions_n_Answers" />
+        <activity android:name=".activityclass.FinalResult" />
+        <activity android:name=".activityclass.DashboardActivity" />
+        <activity android:name=".activityclass.gradelists" />
+        <activity android:name=".activityclass.login" />
+        <activity android:name=".activityclass.Entry2" />
+        <activity android:name=".activityclass.Entry1" />
+        <activity android:name=".activityclass.mcard" />
+        <activity
+            android:name=".timeTable.MainActivityCalendar"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".timeTable.EventEditActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".activityclass.Splash_screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activityclass.MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
